@@ -123,6 +123,13 @@ span {
   position: relative;
   display: inline-block;
 }
+.about{
+  padding-top: 32px;
+  padding-bottom: 32px;
+  font-size: large;
+  justify-content: space-between;
+  text-align: justify;
+}
 
 .text {
   position: absolute;
@@ -162,6 +169,7 @@ span {
 #bar-off {
   opacity: 0.1;
   border-bottom: 1px solid black;
+  
 }
 footer{
   background-color: black;
